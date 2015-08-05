@@ -12,9 +12,11 @@ public class Qualquer {
 		int res = calc(2,2);
 		
 		System.out.println(res);
+		
+		System.out.println("Fim.");
 	}
 
 	private static int calc(int i, int j) {
-		return i+y;
+		return i+j;
 	}
 }
